@@ -24,15 +24,15 @@ In total, there were 39,976 reviews for outdoor products that fit the filter cri
 
 #### Five-Star Reviews by Payment Category
 Of the 39,976 reviews, 21,061 were five-star reviews.
-* Paid: 56
-* Unpaid: 21,005
+* Paid: 56 5-star reviews
+* Unpaid: 21,005 5-star reviews
 
 ![5 Star Reviews](/Images/5star_reviews.png)
 
 #### Percentage of 5-Star Reviews by Payment Category
 Of the total number of reviews, 52.68% (21,061/39,976) were 5-star reviews.
-* Paid: 52.34%
-* Unpaid: 52.69%
+* Paid: 52.34% 5-star reviews
+* Unpaid: 52.69% 5-star reviews
 
 ![Percent 5 Star](/Images/Percentage_5star.png)
 
