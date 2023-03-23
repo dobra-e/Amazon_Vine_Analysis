@@ -18,19 +18,22 @@ Next, the total number of paid versus unpaid reviews as well as the total number
 #### Reviews by Payment Category
 In total, there were 39,976 reviews for outdoor products that fit the filter criteria.
 * Paid: 107 reviews
-* Unpaid: 39,869 reviews </br>
+* Unpaid: 39,869 reviews 
+
 ![Total Reviews](/Images/Total_Reviews.png)
 
 #### Five-Star Reviews by Payment Category
 Of the 39,976 reviews, 21,061 were five-star reviews.
 * Paid: 56
-* Unpaid: 21,005 </br>
+* Unpaid: 21,005
+
 ![5 Star Reviews](/Images/5star_reviews.png)
 
 #### Percentage of 5-Star Reviews by Payment Category
 Of the total number of reviews, 52.68% (21,061/39,976) were 5-star reviews.
 * Paid: 52.34%
-* Unpaid: 52.69% </br>
+* Unpaid: 52.69%
+
 ![Percent 5 Star](/Images/Percentage_5star.png)
 
 ## Summary
